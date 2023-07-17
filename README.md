@@ -1,5 +1,5 @@
 #  105012 - SO
-<img align="left" width="100" height="100" src="https://github.com/OS-GEI-IGUALADA-2223/course/assets/61190134/4d67624b-b24c-4703-bd21-d9e841d2bdd5">
+<img align="left" width="100" height="100" src="https://github.com/OS-GEI-IGUALADA-2223/course/assets/61190134/b158f69e-c468-4aaf-a54a-35b70733d428">
 
 *Instructor*: [Jordi Mateo Fornés](http:jordimateofornes.com)
 
